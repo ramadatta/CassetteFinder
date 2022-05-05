@@ -1,3 +1,6 @@
 # CassetteFinder
 
-Takes multiple genomes and finds possible gene cassettes
+Takes multiple genomes and finds possible gene cassettes 
+
+
+Coming soon
